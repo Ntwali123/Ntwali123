@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ML and Blockchain development**
 
-- 💬 Ask me about **Solidityaa**
+- 💬 Ask me about **Solidity**
 
 - 📫 How to reach me **ntwalidavid31@gmail.com**
 
