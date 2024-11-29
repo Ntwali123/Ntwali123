@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ntwali David</h1>
-<h3 align="center">A passionate Full-stack developer from India</h3>
+<h3 align="center">A passionate Full-stack developer from Rwanda</h3>
 
 - 🌱 I’m currently learning **ML and Blockchain development**
 
